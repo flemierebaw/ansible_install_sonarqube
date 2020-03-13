@@ -25,4 +25,3 @@ galaxy_info:
     - 'sonarqube'
 
 dependencies:
-  - geerlingguy.java
